@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MD Mojammel Hoque - Data Entry Operator</title>
+  <style>
+    /* General Styles */
+    body {
+      font-family: 'Roboto', sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      color: #333;
+      background-color: #f4f4f4;
+    }
+
+    h1, h2, h3 {
+      color: #2c3e50;
+    }
+
+    a {
+      text-decoration: none;
+      color: #3498db;
+    }
+
+    a:hover {
+      color: #2980b9;
+    }
+
+    /* Header */
+    header {
+      background: #2c3e50;
+      color: #fff;
+      padding: 20px 0;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+      font-style: italic;
+      font-weight: bold;
+    }
+
+    header p {
+      margin: 5px 0 0;
+      font-size: 1.2rem;
+    }
+  </style>
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <h1>MD MOJAMMEL HOQUE</h1>
+    <p>Data Entry Operator | Data Management Specialist</p>
+  </header>
+
+  <!-- Navigation -->
+  <nav>
+    <a href="#about">About Me</a>
+    <a href="#skills">Skills</a>
+    <a href="#languages">Languages</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <!-- About Me Section -->
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      A highly motivated and detail-driven data entry professional with expertise in data management, analysis, and visualization. Proficient in Power BI, MS Excel, and SQL, I specialize in efficient data entry, data cleaning, and creating insightful dashboards.
+    </p>
+  </section>
+
+  <!-- Skills Section -->
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul class="skills-list">
+      <li>📊 Data Entry and Cleaning</li>
+      <li>📈 Dashboard Creation with Power BI</li>
+      <li>🛠 SQL (Basic Knowledge)</li>
+      <li>💻 MS Excel, Word, and Outlook</li>
+      <li>✔️ Accuracy Maintenance</li>
+      <li>⌨️ English and Arabic Typing</li>
+    </ul>
+  </section>
+
+  <!-- Languages Section -->
+  <section id="languages">
+    <h2>Languages</h2>
+    <ul class="languages-list">
+      <li>🗣 Bangla: Native</li>
+      <li>🗣 Hindi: Fluent</li>
+      <li>🗣 English: Intermediate</li>
+      <li>🗣 Arabic: Intermediate</li>
+    </ul>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <div class="contact-info">
+      <p>📞 Phone: +971 54 242 0216</p>
+      <p>✉️ Email: <a href="mailto:mdmhrubel1999@gmail.com">mdmhrubel1999@gmail.com</a></p>
+      <p>📍 Location: Abu Dhabi, Musaffa, UAE</p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2023 MD Mojammel Hoque. All rights reserved.</p>
+  </footer>
+</body>
+</html>
